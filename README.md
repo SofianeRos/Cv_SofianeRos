@@ -1,2 +1,1 @@
-# Cv_SofianeRos
-Portfolio statique généré automatiquement par DevFolio Builder ✨
+📄 Mon CV Dynamique Bienvenue sur le dépôt de mon curriculum vitae. Ce projet est particulier car il ne s'agit pas d'un simple fichier Markdown écrit à la main. 🛠️ Créé avec DevFolio Ce CV a été généré via DevFolio, une application que j'ai développée pour automatiser et styliser la création de portfolios et de profils GitHub.
